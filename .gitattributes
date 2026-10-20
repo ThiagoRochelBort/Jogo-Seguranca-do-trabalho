@@ -1,0 +1,25 @@
+* text=auto
+
+# Arquivos YAML da Unity
+*.unity    text eol=lf linguist-generated
+*.prefab   text eol=lf linguist-generated
+*.asset    text eol=lf linguist-generated
+*.mat      text eol=lf
+*.anim     text eol=lf
+*.controller text eol=lf
+*.meta     text eol=lf
+
+*.cs   text diff=csharp
+*.json text
+*.md   text
+
+# Binários
+*.png  binary
+*.jpg  binary
+*.psd  binary
+*.wav  binary
+*.mp3  binary
+*.ogg  binary
+*.ttf  binary
+*.otf  binary
+*.fbx  binary
