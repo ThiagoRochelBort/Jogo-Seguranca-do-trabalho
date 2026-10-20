@@ -1,0 +1,1315 @@
+{
+  "cards": [
+    {
+      "id": "q01",
+      "type": "question",
+      "nr": "NR-1",
+      "prompt": "Pela NR-1, qual medida de prevenção deve ser adotada PRIMEIRO?",
+      "options": [
+        "Fornecer EPI",
+        "Eliminar o fator de risco",
+        "Sinalizar o local",
+        "Treinar os trabalhadores"
+      ],
+      "correctIndex": 1,
+      "explanation": "A NR-1 segue uma hierarquia: eliminar o risco, depois proteção coletiva, medidas administrativas e, por último, EPI."
+    },
+    {
+      "id": "q02",
+      "type": "question",
+      "nr": "NR-1",
+      "prompt": "O que significa a sigla PGR?",
+      "options": [
+        "Plano Geral de Resgate",
+        "Programa de Gerenciamento de Riscos",
+        "Protocolo de Gestão de Recursos",
+        "Programa Geral de Reciclagem"
+      ],
+      "correctIndex": 1,
+      "explanation": "O PGR é o documento do Gerenciamento de Riscos Ocupacionais (GRO) exigido pela NR-1."
+    },
+    {
+      "id": "q03",
+      "type": "question",
+      "nr": "NR-5",
+      "prompt": "Atualmente, o que significa a sigla CIPA?",
+      "options": [
+        "Comissão Interna de Prevenção de Acidentes e de Assédio",
+        "Central Integrada de Proteção Ambiental",
+        "Comissão Industrial de Prevenção de Avarias",
+        "Conselho Interno de Perícia de Acidentes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Desde 2022 a CIPA também atua na prevenção do assédio, e o nome passou a incluir isso."
+    },
+    {
+      "id": "q04",
+      "type": "question",
+      "nr": "NR-5",
+      "prompt": "Qual é a duração do mandato dos membros eleitos da CIPA?",
+      "options": [
+        "6 meses, sem reeleição",
+        "1 ano, permitida uma reeleição",
+        "2 anos, sem reeleição",
+        "4 anos, com reeleições ilimitadas"
+      ],
+      "correctIndex": 1,
+      "explanation": "O mandato é de um ano, permitida uma reeleição."
+    },
+    {
+      "id": "q05",
+      "type": "question",
+      "nr": "NR-6",
+      "prompt": "Todo EPI só pode ser comercializado e usado se tiver:",
+      "options": [
+        "Nota fiscal do fornecedor",
+        "Certificado de Aprovação (CA)",
+        "Selo do sindicato",
+        "Garantia de 5 anos"
+      ],
+      "correctIndex": 1,
+      "explanation": "O CA é emitido pelo órgão nacional competente em segurança e saúde no trabalho."
+    },
+    {
+      "id": "q06",
+      "type": "question",
+      "nr": "NR-6",
+      "prompt": "Quem deve pagar pelo EPI do trabalhador?",
+      "options": [
+        "O próprio trabalhador",
+        "O empregador, gratuitamente",
+        "Metade cada um",
+        "O sindicato da categoria"
+      ],
+      "correctIndex": 1,
+      "explanation": "O empregador deve fornecer o EPI adequado ao risco gratuitamente, em perfeito estado."
+    },
+    {
+      "id": "q07",
+      "type": "question",
+      "nr": "NR-7",
+      "prompt": "Qual documento registra se o trabalhador está apto após um exame ocupacional?",
+      "options": [
+        "CAT",
+        "ASO",
+        "PPP",
+        "PET"
+      ],
+      "correctIndex": 1,
+      "explanation": "O ASO (Atestado de Saúde Ocupacional) é emitido em cada exame do PCMSO."
+    },
+    {
+      "id": "q08",
+      "type": "question",
+      "nr": "NR-10",
+      "prompt": "Qual é a carga horária mínima do curso básico de segurança em eletricidade da NR-10?",
+      "options": [
+        "8 horas",
+        "16 horas",
+        "40 horas",
+        "80 horas"
+      ],
+      "correctIndex": 2,
+      "explanation": "O curso básico da NR-10 tem carga mínima de 40 horas."
+    },
+    {
+      "id": "q09",
+      "type": "question",
+      "nr": "NR-10",
+      "prompt": "Com que frequência o treinamento de reciclagem da NR-10 deve ser feito?",
+      "options": [
+        "Todo mês",
+        "A cada 2 anos",
+        "A cada 5 anos",
+        "Só na admissão"
+      ],
+      "correctIndex": 1,
+      "explanation": "A reciclagem é bienal, e também é exigida em situações como troca de função ou retorno de afastamento longo."
+    },
+    {
+      "id": "q10",
+      "type": "question",
+      "nr": "NR-12",
+      "prompt": "Sobre os dispositivos de parada de emergência de máquinas, é correto afirmar:",
+      "options": [
+        "Devem ficar trancados no painel",
+        "Só o supervisor pode acioná-los",
+        "Devem ser de fácil acesso e visualização pelo operador",
+        "Ao serem soltos, devem religar a máquina"
+      ],
+      "correctIndex": 2,
+      "explanation": "A parada de emergência precisa estar acessível e visível, e o rearme não pode dar partida na máquina sozinho."
+    },
+    {
+      "id": "q11",
+      "type": "question",
+      "nr": "NR-17",
+      "prompt": "A NR-17 trata principalmente de:",
+      "options": [
+        "Ergonomia",
+        "Caldeiras",
+        "Explosivos",
+        "Mineração"
+      ],
+      "correctIndex": 0,
+      "explanation": "A NR-17 busca adaptar as condições de trabalho às características dos trabalhadores."
+    },
+    {
+      "id": "q12",
+      "type": "question",
+      "nr": "NR-23",
+      "prompt": "Qual agente NÃO deve ser usado em fogo classe C (equipamentos elétricos energizados)?",
+      "options": [
+        "Pó químico",
+        "CO2",
+        "Água",
+        "Nenhuma das anteriores"
+      ],
+      "correctIndex": 2,
+      "explanation": "A água conduz eletricidade e pode causar choque em quem está combatendo o fogo."
+    },
+    {
+      "id": "q13",
+      "type": "question",
+      "nr": "NR-23",
+      "prompt": "Fogo em papel, madeira e tecido é de qual classe?",
+      "options": [
+        "Classe A",
+        "Classe B",
+        "Classe C",
+        "Classe D"
+      ],
+      "correctIndex": 0,
+      "explanation": "Classe A são materiais sólidos que queimam em superfície e profundidade, deixando resíduo."
+    },
+    {
+      "id": "q14",
+      "type": "question",
+      "nr": "NR-33",
+      "prompt": "Em espaço confinado, quem fica do lado de fora acompanhando os trabalhadores?",
+      "options": [
+        "O vigia",
+        "O cipeiro",
+        "O brigadista",
+        "O encarregado de compras"
+      ],
+      "correctIndex": 0,
+      "explanation": "O vigia permanece fora do espaço confinado, monitora os trabalhadores e aciona o resgate se necessário."
+    },
+    {
+      "id": "q15",
+      "type": "question",
+      "nr": "NR-33",
+      "prompt": "Qual documento autoriza a entrada em um espaço confinado?",
+      "options": [
+        "ASO",
+        "PET",
+        "CAT",
+        "CA"
+      ],
+      "correctIndex": 1,
+      "explanation": "A PET (Permissão de Entrada e Trabalho) é emitida pelo supervisor de entrada."
+    },
+    {
+      "id": "q16",
+      "type": "question",
+      "nr": "NR-35",
+      "prompt": "A NR-35 considera trabalho em altura toda atividade executada acima de:",
+      "options": [
+        "1,00 m do nível inferior",
+        "1,50 m do nível inferior",
+        "2,00 m do nível inferior, com risco de queda",
+        "5,00 m do nível inferior"
+      ],
+      "correctIndex": 2,
+      "explanation": "O limite é 2,00 m acima do nível inferior quando há risco de queda."
+    },
+    {
+      "id": "q17",
+      "type": "question",
+      "nr": "NR-35",
+      "prompt": "Qual a carga horária mínima do treinamento inicial para trabalho em altura?",
+      "options": [
+        "2 horas",
+        "4 horas",
+        "8 horas",
+        "40 horas"
+      ],
+      "correctIndex": 2,
+      "explanation": "O treinamento teórico e prático da NR-35 tem no mínimo 8 horas."
+    },
+    {
+      "id": "s01",
+      "type": "sequence",
+      "nr": "NR-10",
+      "title": "Desenergização",
+      "prompt": "Coloque na ordem correta os passos para considerar uma instalação desenergizada.",
+      "steps": [
+        "Seccionamento",
+        "Impedimento de reenergização",
+        "Constatação da ausência de tensão",
+        "Instalação de aterramento temporário",
+        "Proteção dos elementos energizados na zona controlada",
+        "Sinalização de impedimento de reenergização"
+      ],
+      "explanation": "Essa é a sequência prevista na NR-10 para desenergizar uma instalação com segurança."
+    },
+    {
+      "id": "s02",
+      "type": "sequence",
+      "nr": "NR-1",
+      "title": "Hierarquia de controle",
+      "prompt": "Ordene as medidas de prevenção da MAIS para a MENOS prioritária.",
+      "steps": [
+        "Eliminar o fator de risco",
+        "Medidas de proteção coletiva",
+        "Medidas administrativas ou de organização do trabalho",
+        "Equipamento de Proteção Individual (EPI)"
+      ],
+      "explanation": "O EPI é a última barreira: só entra quando as medidas anteriores não bastam."
+    },
+    {
+      "id": "s03",
+      "type": "sequence",
+      "nr": "NR-23",
+      "title": "Uso do extintor",
+      "prompt": "Ordene os passos para operar um extintor portátil.",
+      "steps": [
+        "Retirar a trava de segurança",
+        "Apontar o esguicho para a base do fogo",
+        "Apertar o gatilho",
+        "Movimentar o jato em leque, cobrindo a área em chamas"
+      ],
+      "explanation": "Mirar na base do fogo ataca o combustível, e não só as chamas."
+    },
+    {
+      "id": "s04",
+      "type": "sequence",
+      "nr": "NR-35",
+      "title": "Antes de subir",
+      "prompt": "Ordene as etapas para iniciar um trabalho em altura.",
+      "steps": [
+        "Realizar a análise de risco",
+        "Emitir a permissão de trabalho",
+        "Inspecionar os EPIs e o sistema de ancoragem",
+        "Conectar-se ao ponto de ancoragem antes de se expor ao risco",
+        "Executar a tarefa"
+      ],
+      "explanation": "Planejamento e autorização vêm antes da exposição ao risco de queda."
+    },
+    {
+      "id": "e01",
+      "type": "epi",
+      "nr": "NR-35",
+      "title": "Trabalho no telhado",
+      "prompt": "Um trabalhador vai trocar telhas a 6 m de altura. Quais EPIs ele precisa?",
+      "items": [
+        "Cinturão tipo paraquedista",
+        "Talabarte com absorvedor de energia",
+        "Capacete com jugular",
+        "Calçado de segurança",
+        "Avental de raspa",
+        "Luva isolante de borracha"
+      ],
+      "correctItems": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "O capacete precisa de jugular para não cair durante uma queda ou movimentação."
+    },
+    {
+      "id": "e02",
+      "type": "epi",
+      "nr": "NR-6",
+      "title": "Esmerilhadeira",
+      "prompt": "Um operador vai usar uma esmerilhadeira para desbastar metal. Quais EPIs ele precisa?",
+      "items": [
+        "Protetor facial",
+        "Protetor auricular",
+        "Luva de vaqueta",
+        "Calçado de segurança",
+        "Cinturão tipo paraquedista",
+        "Colete salva-vidas"
+      ],
+      "correctItems": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "A atividade gera fagulhas, projeção de partículas e ruído elevado."
+    },
+    {
+      "id": "e03",
+      "type": "epi",
+      "nr": "NR-10",
+      "title": "Painel elétrico",
+      "prompt": "Um eletricista vai trabalhar em um painel de baixa tensão. Quais EPIs ele precisa?",
+      "items": [
+        "Luva isolante de borracha",
+        "Vestimenta antichama",
+        "Capacete classe B",
+        "Calçado sem partes metálicas",
+        "Luva de algodão comum",
+        "Colete salva-vidas"
+      ],
+      "correctItems": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "O capacete classe B é o indicado para risco elétrico, e a vestimenta antichama protege contra arco elétrico."
+    },
+    {
+      "id": "w01",
+      "type": "wire",
+      "nr": "NR-10",
+      "title": "Trocar uma tomada",
+      "prompt": "Antes de ligar os fios, escolha seus EPIs.",
+      "epiItems": [
+        "Luva isolante de borracha",
+        "Óculos de proteção",
+        "Calçado sem partes metálicas",
+        "Protetor auricular",
+        "Luva de vaqueta",
+        "Colete salva-vidas"
+      ],
+      "epiCorrect": [
+        0,
+        1,
+        2
+      ],
+      "left": [
+        "Fase (preto)",
+        "Neutro (azul)",
+        "Terra (verde-amarelo)"
+      ],
+      "right": [
+        "Borne N",
+        "Borne T",
+        "Borne F"
+      ],
+      "links": [
+        2,
+        0,
+        1
+      ],
+      "epiWhy": "Choque e fagulha: precisa de luva isolante, óculos e calçado sem metal.",
+      "linkWhy": "Cada fio vai no borne do mesmo tipo: fase, neutro e terra.",
+      "maxMistakes": 2,
+      "explanation": "Primeiro o EPI, depois o fio. E o ideal é desenergizar o circuito antes de mexer.",
+      "epiIcons": [
+        "luva",
+        "oculos",
+        "calcado",
+        "protetor_auricular",
+        "luva",
+        "colete"
+      ],
+      "wireColors": [
+        "preto",
+        "azul",
+        "verde_amarelo"
+      ],
+      "device": "tomada"
+    },
+    {
+      "id": "l01",
+      "type": "lockout",
+      "nr": "NR-12",
+      "title": "Bloqueio e etiqueta",
+      "prompt": "Prepare a máquina para manutenção.",
+      "steps": [
+        "Avisar a equipe",
+        "Desligar a máquina",
+        "Bloquear com cadeado",
+        "Colocar a etiqueta",
+        "Testar se não parte"
+      ],
+      "traps": [
+        {
+          "label": "Tirar o cadeado para testar",
+          "why": "O bloqueio só sai no fim, por quem bloqueou.",
+          "icon": "cadeado"
+        },
+        {
+          "label": "Só encostar a chave",
+          "why": "Sem cadeado e etiqueta, alguém pode ligar.",
+          "icon": "ferramenta"
+        }
+      ],
+      "maxMistakes": 2,
+      "explanation": "Avise, desligue, bloqueie, etiquete e teste, nessa ordem, antes de mexer na máquina.",
+      "scene": "maquina",
+      "stepIcons": [
+        "pessoa",
+        "disjuntor",
+        "cadeado",
+        "etiqueta",
+        "maquina"
+      ],
+      "stepFx": [
+        "avisar",
+        "desligar",
+        "bloquear",
+        "etiquetar",
+        "testar"
+      ]
+    },
+    {
+      "id": "h01",
+      "type": "hunt",
+      "nr": "NR-1",
+      "title": "Oficina com riscos",
+      "prompt": "Clique nos 4 riscos da oficina.",
+      "huntItems": [
+        {
+          "label": "Fio descascado",
+          "shape": "rect",
+          "x": 18,
+          "y": 22,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Fio sem isolamento causa choque.",
+          "icon": "fio"
+        },
+        {
+          "label": "Placa de saída",
+          "shape": "rect",
+          "x": 50,
+          "y": 22,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "A sinalização de saída está correta.",
+          "icon": "placa_saida"
+        },
+        {
+          "label": "Extintor bloqueado",
+          "shape": "rect",
+          "x": 82,
+          "y": 22,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "O extintor precisa estar livre e sinalizado.",
+          "icon": "extintor"
+        },
+        {
+          "label": "Fio na canaleta",
+          "shape": "rect",
+          "x": 18,
+          "y": 50,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "Fio organizado na canaleta é o certo.",
+          "icon": "fio"
+        },
+        {
+          "label": "Piso molhado",
+          "shape": "rect",
+          "x": 50,
+          "y": 50,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Piso molhado sem sinal causa queda.",
+          "icon": "gota"
+        },
+        {
+          "label": "Capacete no gancho",
+          "shape": "rect",
+          "x": 82,
+          "y": 50,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "Guardar o EPI no lugar é correto.",
+          "icon": "capacete"
+        },
+        {
+          "label": "Máquina sem proteção",
+          "shape": "rect",
+          "x": 34,
+          "y": 78,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Partes que se movem precisam de proteção.",
+          "icon": "maquina"
+        },
+        {
+          "label": "Extintor sinalizado",
+          "shape": "rect",
+          "x": 66,
+          "y": 78,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "Extintor livre e sinalizado está certo.",
+          "icon": "extintor"
+        }
+      ],
+      "maxMistakes": 2,
+      "seconds": 0,
+      "explanation": "Enxergar o risco antes do acidente é o primeiro passo do gerenciamento de riscos (NR-1).",
+      "scene": "oficina"
+    },
+    {
+      "id": "m01",
+      "type": "match",
+      "nr": "",
+      "title": "O que fazer agora?",
+      "prompt": "Ligue cada situação à ação certa.",
+      "matchPairs": [
+        {
+          "s": "Fogo em painel elétrico",
+          "a": "Extintor de CO2 ou pó",
+          "why": "Água conduz eletricidade.",
+          "sIcon": "painel",
+          "aIcon": "extintor"
+        },
+        {
+          "s": "Máquina travou",
+          "a": "Desligar e bloquear antes",
+          "why": "Energia residual machuca.",
+          "sIcon": "maquina",
+          "aIcon": "cadeado"
+        },
+        {
+          "s": "Alarme de incêndio toca",
+          "a": "Sair pela rota de fuga",
+          "why": "Siga a sinalização de saída.",
+          "sIcon": "alerta",
+          "aIcon": "placa_saida"
+        },
+        {
+          "s": "Colega passou mal",
+          "a": "Chamar a brigada ou socorro",
+          "why": "Peça ajuda treinada.",
+          "sIcon": "pessoa",
+          "aIcon": "cruz"
+        }
+      ],
+      "extras": [
+        "Jogar água",
+        "Continuar trabalhando"
+      ],
+      "maxMistakes": 2,
+      "explanation": "Agir certo na hora do perigo é o que a NR ensina em treinamento.",
+      "extraIcons": [
+        "gota",
+        "ferramenta"
+      ]
+    },
+    {
+      "id": "w02",
+      "type": "wire",
+      "nr": "NR-10",
+      "title": "Ligar a bomba d'água",
+      "prompt": "Escolha os EPIs e ligue cada fio no borne certo.",
+      "epiItems": [
+        "Luva isolante de borracha",
+        "Capacete classe B",
+        "Calçado sem partes metálicas",
+        "Luva de algodão comum",
+        "Protetor auricular",
+        "Cinto de segurança"
+      ],
+      "epiCorrect": [
+        0,
+        1,
+        2
+      ],
+      "left": [
+        "Fio preto (fase)",
+        "Fio azul (neutro)",
+        "Fio verde (terra)"
+      ],
+      "right": [
+        "Borne F",
+        "Borne T",
+        "Borne N"
+      ],
+      "links": [
+        0,
+        2,
+        1
+      ],
+      "epiWhy": "Risco de choque: luva isolante, capacete classe B e calçado sem metal.",
+      "linkWhy": "Fase vai no F, neutro no N e terra no T.",
+      "maxMistakes": 2,
+      "explanation": "O terra protege quem toca na carcaça. Desenergize o circuito antes de ligar.",
+      "epiIcons": [
+        "luva",
+        "capacete",
+        "calcado",
+        "luva",
+        "protetor_auricular",
+        "cinturao"
+      ],
+      "wireColors": [
+        "preto",
+        "azul",
+        "verde_amarelo"
+      ],
+      "device": "bomba"
+    },
+    {
+      "id": "w03",
+      "type": "wire",
+      "nr": "NR-10",
+      "title": "Instalar uma luminária",
+      "prompt": "Primeiro os EPIs, depois os fios.",
+      "epiItems": [
+        "Luva isolante de borracha",
+        "Óculos de proteção",
+        "Capacete classe B",
+        "Luva de vaqueta",
+        "Protetor auricular",
+        "Colete refletivo"
+      ],
+      "epiCorrect": [
+        0,
+        1,
+        2
+      ],
+      "left": [
+        "Fio marrom (fase)",
+        "Fio azul (neutro)",
+        "Fio verde-amarelo (terra)"
+      ],
+      "right": [
+        "Terminal T",
+        "Terminal F",
+        "Terminal N"
+      ],
+      "links": [
+        1,
+        2,
+        0
+      ],
+      "epiWhy": "Luva isolante, óculos e capacete classe B protegem de choque e fagulha.",
+      "linkWhy": "Cada fio vai no terminal da mesma função: fase, neutro e terra.",
+      "maxMistakes": 2,
+      "explanation": "Luva de vaqueta não isola eletricidade. Use luva isolante e desenergize antes.",
+      "epiIcons": [
+        "luva",
+        "oculos",
+        "capacete",
+        "luva",
+        "protetor_auricular",
+        "colete"
+      ],
+      "wireColors": [
+        "marrom",
+        "azul",
+        "verde_amarelo"
+      ],
+      "device": "luminaria"
+    },
+    {
+      "id": "l02",
+      "type": "lockout",
+      "nr": "NR-10",
+      "title": "Desenergizar o painel",
+      "prompt": "Deixe o circuito seguro para o serviço.",
+      "steps": [
+        "Desligar o disjuntor",
+        "Bloquear contra religar",
+        "Medir se não há tensão",
+        "Ligar o aterramento temporário"
+      ],
+      "traps": [
+        {
+          "label": "Confiar que está desligado",
+          "why": "Só o teste de ausência de tensão confirma.",
+          "icon": "pessoa"
+        },
+        {
+          "label": "Pedir para religar e testar",
+          "why": "Religar com gente no serviço causa choque.",
+          "icon": "disjuntor"
+        }
+      ],
+      "maxMistakes": 2,
+      "explanation": "Desligue, bloqueie, meça e aterre. Só então o circuito é considerado desenergizado.",
+      "scene": "painel",
+      "stepIcons": [
+        "disjuntor",
+        "cadeado",
+        "multimetro",
+        "fio"
+      ],
+      "stepFx": [
+        "desligar",
+        "bloquear",
+        "medir",
+        "aterrar"
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "lockout",
+      "nr": "NR-35",
+      "title": "Antes de subir",
+      "prompt": "Prepare o trabalho em altura.",
+      "steps": [
+        "Fazer a análise de risco",
+        "Emitir a permissão de trabalho",
+        "Inspecionar o cinturão",
+        "Prender na ancoragem"
+      ],
+      "traps": [
+        {
+          "label": "Prender só depois de subir",
+          "why": "A proteção contra queda vale desde o início do risco.",
+          "icon": "escada"
+        },
+        {
+          "label": "Pular a inspeção do cinturão",
+          "why": "Equipamento danificado falha na queda.",
+          "icon": "cinturao"
+        }
+      ],
+      "maxMistakes": 2,
+      "explanation": "Planeje, autorize, inspecione e prenda-se antes de se expor ao risco de queda.",
+      "scene": "altura",
+      "stepIcons": [
+        "documento",
+        "documento",
+        "lupa",
+        "cinturao"
+      ],
+      "stepFx": [
+        "documento",
+        "documento",
+        "inspecionar",
+        "ancorar"
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "lockout",
+      "nr": "NR-33",
+      "title": "Antes de entrar no tanque",
+      "prompt": "Prepare a entrada em espaço confinado.",
+      "steps": [
+        "Sinalizar e isolar o local",
+        "Medir os gases",
+        "Emitir a PET",
+        "Entrar com o vigia de fora"
+      ],
+      "traps": [
+        {
+          "label": "Entrar para sentir o ar",
+          "why": "Gás perigoso pode não ter cheiro.",
+          "icon": "pessoa"
+        },
+        {
+          "label": "Dispensar o vigia",
+          "why": "Quem está dentro precisa de alguém fora para pedir socorro.",
+          "icon": "pessoa"
+        }
+      ],
+      "maxMistakes": 2,
+      "explanation": "Meça, autorize pela PET e entre sempre com o vigia do lado de fora.",
+      "scene": "tanque",
+      "stepIcons": [
+        "cone",
+        "gas",
+        "documento",
+        "tanque"
+      ],
+      "stepFx": [
+        "isolar",
+        "medir",
+        "documento",
+        "entrar"
+      ]
+    },
+    {
+      "id": "h02",
+      "type": "hunt",
+      "nr": "NR-35",
+      "title": "Telhado com riscos",
+      "prompt": "Clique nos 4 riscos do trabalho em altura.",
+      "huntItems": [
+        {
+          "label": "Cinturão ancorado",
+          "shape": "rect",
+          "x": 18,
+          "y": 22,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "Preso na ancoragem está correto.",
+          "icon": "cinturao"
+        },
+        {
+          "label": "Sem ancoragem",
+          "shape": "rect",
+          "x": 50,
+          "y": 22,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Sem ponto de ancoragem não há como segurar a queda.",
+          "icon": "alerta"
+        },
+        {
+          "label": "Escada improvisada",
+          "shape": "rect",
+          "x": 82,
+          "y": 22,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Escada sem apoio firme escorrega.",
+          "icon": "escada"
+        },
+        {
+          "label": "Guarda-corpo firme",
+          "shape": "rect",
+          "x": 18,
+          "y": 50,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "Guarda-corpo firme protege a borda.",
+          "icon": "cone"
+        },
+        {
+          "label": "Borda sem proteção",
+          "shape": "rect",
+          "x": 50,
+          "y": 50,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Borda aberta sem proteção causa queda.",
+          "icon": "pessoa"
+        },
+        {
+          "label": "Área isolada",
+          "shape": "rect",
+          "x": 82,
+          "y": 50,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "Isolar a área embaixo evita acidentes.",
+          "icon": "cone"
+        },
+        {
+          "label": "Ferramenta na beirada",
+          "shape": "rect",
+          "x": 34,
+          "y": 78,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Ferramenta solta pode cair em alguém.",
+          "icon": "ferramenta"
+        },
+        {
+          "label": "Capacete com jugular",
+          "shape": "rect",
+          "x": 66,
+          "y": 78,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "Capacete com jugular está correto.",
+          "icon": "capacete"
+        }
+      ],
+      "maxMistakes": 2,
+      "seconds": 0,
+      "explanation": "Trabalho em altura pede proteção contra queda e cuidado com o que pode cair.",
+      "scene": "telhado"
+    },
+    {
+      "id": "h03",
+      "type": "hunt",
+      "nr": "NR-12",
+      "title": "Oficina de máquinas",
+      "prompt": "Clique nos 4 riscos da oficina.",
+      "huntItems": [
+        {
+          "label": "Serra sem proteção",
+          "shape": "rect",
+          "x": 18,
+          "y": 22,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Parte que corta precisa de proteção.",
+          "icon": "maquina"
+        },
+        {
+          "label": "Parada livre",
+          "shape": "rect",
+          "x": 50,
+          "y": 22,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "A parada de emergência deve ficar livre.",
+          "icon": "botao_emergencia"
+        },
+        {
+          "label": "Operador sem óculos",
+          "shape": "rect",
+          "x": 82,
+          "y": 22,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Fagulhas e cavacos ferem os olhos.",
+          "icon": "pessoa"
+        },
+        {
+          "label": "Piso limpo",
+          "shape": "rect",
+          "x": 18,
+          "y": 50,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "Piso limpo e seco evita quedas.",
+          "icon": "cone"
+        },
+        {
+          "label": "Emergência bloqueada",
+          "shape": "rect",
+          "x": 50,
+          "y": 50,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Parada de emergência bloqueada não serve em perigo.",
+          "icon": "botao_emergencia"
+        },
+        {
+          "label": "Máquina protegida",
+          "shape": "rect",
+          "x": 82,
+          "y": 50,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "Máquina com proteção fixa está certa.",
+          "icon": "maquina"
+        },
+        {
+          "label": "Fio solto",
+          "shape": "rect",
+          "x": 34,
+          "y": 78,
+          "w": 16,
+          "h": 26,
+          "risk": true,
+          "why": "Fio solto causa tropeço e choque.",
+          "icon": "fio"
+        },
+        {
+          "label": "Placa de aviso",
+          "shape": "rect",
+          "x": 66,
+          "y": 78,
+          "w": 16,
+          "h": 26,
+          "risk": false,
+          "why": "Sinalização de aviso está correta.",
+          "icon": "alerta"
+        }
+      ],
+      "maxMistakes": 2,
+      "seconds": 0,
+      "explanation": "Proteções, parada de emergência livre e EPI são a base da segurança em máquinas.",
+      "scene": "oficina"
+    },
+    {
+      "id": "m02",
+      "type": "match",
+      "nr": "NR-6",
+      "title": "Qual EPI usar?",
+      "prompt": "Ligue cada situação ao EPI certo.",
+      "matchPairs": [
+        {
+          "s": "Barulho forte na prensa",
+          "a": "Protetor auricular",
+          "why": "Reduz o ruído que causa perda auditiva.",
+          "sIcon": "som",
+          "aIcon": "protetor_auricular"
+        },
+        {
+          "s": "Soldar peças de metal",
+          "a": "Máscara de solda",
+          "why": "Protege olhos e rosto de luz e fagulhas.",
+          "sIcon": "chama",
+          "aIcon": "mascara_solda"
+        },
+        {
+          "s": "Manusear produto químico",
+          "a": "Luva de proteção química",
+          "why": "Evita o contato do produto com a pele.",
+          "sIcon": "gota",
+          "aIcon": "luva"
+        },
+        {
+          "s": "Lixar com muita poeira",
+          "a": "Respirador PFF2",
+          "why": "Filtra a poeira que seria inalada.",
+          "sIcon": "gas",
+          "aIcon": "respirador"
+        }
+      ],
+      "extras": [
+        "Luva de algodão",
+        "Boné comum"
+      ],
+      "maxMistakes": 2,
+      "explanation": "Cada risco pede um EPI específico, com CA e em bom estado.",
+      "extraIcons": [
+        "luva",
+        "capacete"
+      ]
+    },
+    {
+      "id": "m03",
+      "type": "match",
+      "nr": "",
+      "title": "Qual documento ou ação?",
+      "prompt": "Ligue cada situação à ação certa.",
+      "matchPairs": [
+        {
+          "s": "Quase acidente na fábrica",
+          "a": "Registrar e corrigir a causa",
+          "why": "Corrigir antes que vire acidente.",
+          "sIcon": "cone",
+          "aIcon": "ferramenta"
+        },
+        {
+          "s": "Exame de admissão",
+          "a": "Receber o ASO",
+          "why": "O ASO diz se a pessoa está apta.",
+          "sIcon": "pessoa",
+          "aIcon": "documento"
+        },
+        {
+          "s": "Risco novo no setor",
+          "a": "Atualizar o PGR",
+          "why": "O PGR deve refletir os riscos atuais.",
+          "sIcon": "alerta",
+          "aIcon": "documento"
+        },
+        {
+          "s": "Acidente com afastamento",
+          "a": "Emitir a CAT",
+          "why": "A CAT comunica o acidente de trabalho.",
+          "sIcon": "cruz",
+          "aIcon": "documento"
+        }
+      ],
+      "extras": [
+        "Esperar passar",
+        "Guardar em segredo"
+      ],
+      "maxMistakes": 2,
+      "explanation": "Registrar, avaliar e comunicar mantém a empresa segura e dentro da lei.",
+      "extraIcons": [
+        "cone",
+        "cadeado"
+      ]
+    },
+    {
+      "id": "ev01",
+      "type": "event",
+      "nr": "",
+      "title": "Fiscalização surpresa",
+      "prompt": "O auditor-fiscal encontrou um extintor com a inspeção vencida.",
+      "healthDelta": -1,
+      "auditDelta": 0
+    },
+    {
+      "id": "ev02",
+      "type": "event",
+      "nr": "NR-5",
+      "title": "SIPAT",
+      "prompt": "A Semana Interna de Prevenção de Acidentes do Trabalho engajou toda a empresa.",
+      "healthDelta": 1,
+      "auditDelta": 0
+    },
+    {
+      "id": "ev03",
+      "type": "event",
+      "nr": "",
+      "title": "Quase acidente reportado",
+      "prompt": "Um colaborador registrou um quase acidente e a causa foi corrigida a tempo.",
+      "healthDelta": 0,
+      "auditDelta": 1
+    },
+    {
+      "id": "ev04",
+      "type": "event",
+      "nr": "NR-6",
+      "title": "Sem EPI",
+      "prompt": "Um trabalhador foi flagrado operando uma máquina sem óculos de proteção.",
+      "healthDelta": -1,
+      "auditDelta": 0
+    },
+    {
+      "id": "ev05",
+      "type": "event",
+      "nr": "",
+      "title": "DDS",
+      "prompt": "O Diálogo Diário de Segurança lembrou a equipe dos riscos do dia.",
+      "healthDelta": 1,
+      "auditDelta": 0
+    },
+    {
+      "id": "ev06",
+      "type": "event",
+      "nr": "NR-23",
+      "title": "Princípio de incêndio",
+      "prompt": "Um curto-circuito causou um princípio de incêndio no almoxarifado. Houve danos antes do controle.",
+      "healthDelta": -1,
+      "auditDelta": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "p01",
+      "kind": "nr",
+      "a": "NR-1",
+      "b": "Gerenciamento de riscos (GRO/PGR)",
+      "explanation": "A NR-1 traz as disposições gerais e exige o GRO, documentado no PGR."
+    },
+    {
+      "id": "p02",
+      "kind": "nr",
+      "a": "NR-5",
+      "b": "CIPA",
+      "explanation": "A NR-5 organiza a Comissão Interna de Prevenção de Acidentes e de Assédio."
+    },
+    {
+      "id": "p03",
+      "kind": "nr",
+      "a": "NR-6",
+      "b": "Equipamento de Proteção Individual",
+      "explanation": "A NR-6 define as regras de fornecimento, uso e certificação (CA) dos EPIs."
+    },
+    {
+      "id": "p04",
+      "kind": "nr",
+      "a": "NR-7",
+      "b": "PCMSO (saúde ocupacional)",
+      "explanation": "A NR-7 exige o Programa de Controle Médico de Saúde Ocupacional e os exames como o ASO."
+    },
+    {
+      "id": "p05",
+      "kind": "nr",
+      "a": "NR-10",
+      "b": "Segurança em eletricidade",
+      "explanation": "A NR-10 trata de instalações e serviços em eletricidade, incluindo a desenergização."
+    },
+    {
+      "id": "p06",
+      "kind": "nr",
+      "a": "NR-12",
+      "b": "Máquinas e equipamentos",
+      "explanation": "A NR-12 exige proteções e dispositivos de parada de emergência em máquinas."
+    },
+    {
+      "id": "p07",
+      "kind": "nr",
+      "a": "NR-17",
+      "b": "Ergonomia",
+      "explanation": "A NR-17 adapta o trabalho às características psicofisiológicas dos trabalhadores."
+    },
+    {
+      "id": "p08",
+      "kind": "nr",
+      "a": "NR-23",
+      "b": "Proteção contra incêndios",
+      "explanation": "A NR-23 cobre saídas de emergência, combate a incêndio e treinamento da equipe."
+    },
+    {
+      "id": "p09",
+      "kind": "nr",
+      "a": "NR-33",
+      "b": "Espaços confinados",
+      "explanation": "A NR-33 exige Permissão de Entrada e Trabalho (PET) e vigia do lado de fora."
+    },
+    {
+      "id": "p10",
+      "kind": "nr",
+      "a": "NR-35",
+      "b": "Trabalho em altura",
+      "explanation": "A NR-35 vale para atividades acima de 2 metros do nível inferior com risco de queda."
+    },
+    {
+      "id": "p11",
+      "kind": "epi",
+      "a": "Ruído excessivo",
+      "b": "Protetor auricular",
+      "explanation": "O protetor auricular reduz a exposição ao ruído e previne a perda auditiva."
+    },
+    {
+      "id": "p12",
+      "kind": "epi",
+      "a": "Queda de altura",
+      "b": "Cinturão tipo paraquedista",
+      "explanation": "Acima de 2 m, o cinturão paraquedista ligado a um ponto de ancoragem segura a queda."
+    },
+    {
+      "id": "p13",
+      "kind": "epi",
+      "a": "Partículas volantes",
+      "b": "Óculos de proteção",
+      "explanation": "Esmerilhar, cortar e lixar lançam fragmentos: os óculos protegem os olhos."
+    },
+    {
+      "id": "p14",
+      "kind": "epi",
+      "a": "Produtos químicos nas mãos",
+      "b": "Luva de proteção química",
+      "explanation": "Luvas como as de nitrila impedem o contato da pele com o produto químico."
+    },
+    {
+      "id": "p15",
+      "kind": "epi",
+      "a": "Queda de objetos na cabeça",
+      "b": "Capacete de segurança",
+      "explanation": "O capacete absorve o impacto de objetos que caem ou de batidas na cabeça."
+    },
+    {
+      "id": "p16",
+      "kind": "epi",
+      "a": "Poeira e fumos",
+      "b": "Respirador PFF2",
+      "explanation": "O respirador filtra partículas que seriam inaladas."
+    },
+    {
+      "id": "p17",
+      "kind": "epi",
+      "a": "Objetos pesados nos pés",
+      "b": "Calçado de segurança",
+      "explanation": "A biqueira do calçado de segurança protege os dedos contra impacto e esmagamento."
+    },
+    {
+      "id": "p18",
+      "kind": "epi",
+      "a": "Choque elétrico",
+      "b": "Luva isolante de borracha",
+      "explanation": "A luva isolante, usada com a luva de cobertura, protege contra choque na NR-10."
+    }
+  ]
+}
